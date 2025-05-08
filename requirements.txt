@@ -1,0 +1,5 @@
+python-telegram-bot==20.6
+requests
+bs4
+googlesearch-python
+flask
